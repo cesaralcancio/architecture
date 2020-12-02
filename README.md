@@ -1,4 +1,4 @@
-# archtecture
+# Archtecture
 Archtecture Study
 
 ## Database
